@@ -1,0 +1,26 @@
+{
+  "name": "boxGame",
+  "version": "1.0.0",
+  "description": "boxGame can be played by two players from two different browsers",
+  "main": "socketServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisaFan18/boxGame.git"
+  },
+  "keywords": [
+    "socket.io",
+    "gobang"
+  ],
+  "author": "Lisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LisaFan18/boxGame/issues"
+  },
+  "homepage": "https://github.com/LisaFan18/boxGame#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
