@@ -5,11 +5,11 @@ This project implements a simple box game which two players can play together fr
 
 # how to start
 ## step1: download codes
-git clone https://github.com/XNAL/socketio-gobang  
+git clone https://github.com/LisaFan18/boxGame  
 cd boxGame
 ## step2: install dependencies and start server
-npm install       (short for npm install package.json)
-node socketServer (start server)
+* npm install       (short for npm install package.json) 
+* node socketServer (start server)  
 
 ## step3: play game
 1. Open ./public/index.html file in two different browers or browser tabs;  
