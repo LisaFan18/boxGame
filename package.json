@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/LisaFan18/boxGame#readme",
   "dependencies": {
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.4.0"
   }
 }
